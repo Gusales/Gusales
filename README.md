@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-salles-284a6b230/)
 
 [![Gusales's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusales&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Gusales's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusales&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Minhas skills
 
 <div style="display: inline_block">
