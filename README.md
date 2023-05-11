@@ -1,13 +1,11 @@
-### OI! Eu sou o Gustavo Sales ✌
-
 <img src="https://raw.githubusercontent.com/gist/Gusales/0213d82a822610cfd13a33b83331573d/raw/69f3a24d986284ecf2731d79e6ae38cea153b655/myCardProfile.svg" align="right">
+### OI! Eu sou o Gustavo Sales ✌
 
 - 🔥 Junior Full Stack developer in early career
 
 - 🔭 I'm looking for my first job
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Typescript, Node.JS, React JS and React Native**
-
 
 ### Social Medias / Redes Sociais
 
@@ -44,7 +42,5 @@
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
     <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </div><br />
-
-
 
 ### Entre em contato! ![Email](https://img.shields.io/badge/-dev.gusales@gmail.com-820202?style=flat&logo=gmail)&nbsp;
