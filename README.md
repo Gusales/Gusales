@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/gist/Gusales/0213d82a822610cfd13a33b83331573d/raw/69f3a24d986284ecf2731d79e6ae38cea153b655/myCardProfile.svg" align="right">
+
 ### OI! Eu sou o Gustavo Sales ✌
 
 - 🔥 Junior Full Stack developer in early career
