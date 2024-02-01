@@ -6,7 +6,7 @@
 
 - 👨‍💻 Ask me about **NodeJS** and **ReactJS**;
 
-- 📚 Now, i'm learning **Python** and **JAVA**;
+- 📚 Now, i'm learning **JAVA** in _Instituto PROA_ at course _PROAPROFISSÃO_;
 
 - 👨‍🎓 Graduated in **Internet IT Technician** at _ETEC Antônio Furlan_;
 
