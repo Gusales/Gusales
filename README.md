@@ -6,7 +6,7 @@
 
 - 👨‍💻 Ask me about **NodeJS** and **ReactJS**;
 
-- 📚 Now, i'm doing undergraduate degree in _Systems Analysis and Development_ at _FATEC Carapicuíba_;
+- 📚 Now, i'm doing undergraduate degree in _Systems Analysis and Development_ at _Uninter_;
 
 - 👨‍🎓 Graduated in **Internet IT Technician** at _ETEC Antônio Furlan_;
 
