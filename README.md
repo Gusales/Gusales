@@ -1,10 +1,6 @@
 ### Hi! I'm Gustavo Sales, or Dev Gusales✌
 
-- 🔭 I'm looking for my first job;
-
-- 🔥 **Backend** and **Frontend** developer freelancer;
-
-- 👨‍💻 Ask me about **NodeJS** and **ReactJS**;
+- 🔭 Software Engenieer at Itaú Unibanco;
 
 - 📚 Now, i'm doing undergraduate degree in _Systems Analysis and Development_ at _Uninter_;
 
