@@ -2,7 +2,7 @@
 
 - 🔭 Software Engenieer at Itaú Unibanco;
 
-- 📚 Now, i'm doing undergraduate degree in _Systems Analysis and Development_ at _Uninter_;
+- 📚 Now, i'm doing undergraduate degree in _Systems Analysis and Development_ at _FATEC Carapicuiba_;
 
 - 👨‍🎓 Graduated in **Internet IT Technician** at _ETEC Antônio Furlan_;
 
