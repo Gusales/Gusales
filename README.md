@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=67e8f9&height=120&section=header&text=Hi there! I'm Gustavo Sales!!&fontColor=fff0f6&fontSize=40&fontAlignY=35"/>
+<h2>
+    Hi There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px"> <br />
+    I'm Gustavo Sales, software engenieer intern at Itaú Unibanco 🧡
+</h2>
 
 ## 🔎 About me
 
